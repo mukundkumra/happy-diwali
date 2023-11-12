@@ -151,6 +151,6 @@ body {
 
 @media only screen and (max-width:992px) {
     .container {
-        height: 55vh;
+        height: 400px;
     }
 }
