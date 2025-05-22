@@ -12,3 +12,7 @@ This is a simple webpage designed to celebrate Diwali. It features an animated d
 - Responsive design
 - Creative use of colors and patterns
 - Custom Diwali-themed favicon
+
+---
+
+[Happy Diwali GIF](./happy-diwali.gif)
