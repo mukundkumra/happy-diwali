@@ -15,4 +15,4 @@ This is a simple webpage designed to celebrate Diwali. It features an animated d
 
 ---
 
-[Happy Diwali GIF](./happy-diwali.gif)
+![Happy Diwali GIF](./happy-diwali.gif)
